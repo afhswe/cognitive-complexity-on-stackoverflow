@@ -1,4 +1,4 @@
-package org.example;
+package org.afhswe;
 
 import com.google.common.primitives.Ints;
 
@@ -6,7 +6,7 @@ import com.google.common.primitives.Ints;
  * Hello world!
  *
  */
-public class CognitiveComplexity
+public class SampleA
 {
     // Total cognitive complexity: 9
     public char findDelimiter(String fieldseparator)
