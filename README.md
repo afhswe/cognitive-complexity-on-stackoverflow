@@ -12,3 +12,9 @@ Explanations and sample calculations for cognitive complexity can be found here:
 - https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 - https://stackoverflow.com/a/62867219/7730554
 - https://stackoverflow.com/a/70537264/7730554
+
+# Code Sample References
+
+## SampleA
+
+Based on https://stackoverflow.com/q/50562057/7730554
