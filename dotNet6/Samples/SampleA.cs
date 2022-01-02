@@ -21,7 +21,7 @@ namespace CognitiveComplexityOnStackOverflow
                     // handling unicode separator
                     if(int.TryParse(fieldseparator, out int value))
                     {
-                        fieldseparator = Convert.ToString(value);
+                        fieldseparator = Char.ConvertFromUtf32(value);
                         delim = fieldseparator.ElementAt(0);
                     }
                     else
