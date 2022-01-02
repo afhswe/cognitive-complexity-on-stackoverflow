@@ -2,11 +2,7 @@ package org.example;
 
 import com.google.common.primitives.Ints;
 
-/**
- * Hello world!
- *
- */
-public class CyclomaticComplexity
+public class SampleA
 {
     // Total cognitive complexity: 9
     public char findDelimiter(String fieldseparator)

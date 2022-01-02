@@ -3,7 +3,7 @@ package org.example;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
 
-public class CyclomaticComplexityTest
+public class SampleATest
 {
     @Test
     public void Foo()
