@@ -1,4 +1,4 @@
-package org.example;
+package org.afhswe;
 
 import com.google.common.primitives.Ints;
 
