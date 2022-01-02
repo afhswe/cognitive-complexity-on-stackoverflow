@@ -6,7 +6,7 @@ import com.google.common.primitives.Ints;
  * Hello world!
  *
  */
-public class CyclomaticComplexity
+public class CognitiveComplexity
 {
     // Total cognitive complexity: 9
     public char findDelimiter(String fieldseparator)
