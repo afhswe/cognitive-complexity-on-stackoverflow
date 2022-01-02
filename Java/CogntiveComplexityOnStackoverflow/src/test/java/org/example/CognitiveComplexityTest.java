@@ -3,7 +3,7 @@ package org.example;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
 
-public class CognotiveComplexityTest
+public class CognitiveComplexityTest
 {
     @Test
     public void noFieldSeparatorFound()
